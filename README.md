@@ -11,3 +11,7 @@ Berburu mahluk terbang dengan kekuatan di tangan, isi bar lapar sampai penuh seb
 Semua visual masih placeholder yang digambar lewat kode (`main.gd`). Angka level ada di konstanta `LEVELS`.
 
 Dibuat oleh Ananda Aghi untuk tugas akhir kuliah. Kode ditulis dengan bantuan Claude.
+
+## Download (Windows)
+
+Build siap main: [download/Stranded-windows.zip](download/Stranded-windows.zip) (Windows 64-bit). Ekstrak, lalu jalankan `Stranded.exe`. Windows SmartScreen mungkin memberi peringatan karena file belum ditandatangani; pilih "More info" lalu "Run anyway".
