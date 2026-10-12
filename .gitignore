@@ -1,0 +1,11 @@
+# Godot
+.godot/
+*.import
+export_presets.cfg
+*.exe
+*.pck
+# sisa skrip screenshot sementara
+shot.gd
+shot.tscn
+s_*.png
+shot.png
